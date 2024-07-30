@@ -1,4 +1,4 @@
-## Thiefy Thief
+##Thiefy Thief
 
 Welcome to Thiefy Thief, an exciting game where you play as a thief trying to collect as many money bags as possible while avoiding the police and obstacles.
 
