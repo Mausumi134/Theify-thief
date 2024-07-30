@@ -1,4 +1,4 @@
-## Thiefy Thief
+                                                                    ## Thiefy Thief
 
 Welcome to Thiefy Thief, an exciting game where you play as a thief trying to collect as many money bags as possible while avoiding the police and obstacles.
 
@@ -31,7 +31,7 @@ To run Thiefy Thief on your local machine, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/Thiefy-Thief.git
+    https://github.com/Mausumi134/Theify-thief.git
     ```
 
 2. Navigate to the project directory:**
